@@ -1,0 +1,11 @@
+# Python
+venv/
+*.pyc
+__pycache__/
+
+# Data
+data_raw/
+data_clean/
+
+# VS Code
+.vscode/
