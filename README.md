@@ -1,11 +1,13 @@
-# E-Commerce Analytics Project (Olist Dataset)
+# 🛒 E-Commerce Analytics Project (Brazil Olist Dataset)
 
-This project extracts, transforms, and analyzes the Olist Brazilian e-commerce dataset.
+This project performs end-to-end data analytics on the **Olist e-commerce dataset**, including:
 
-### Features
-✅ ETL Pipeline (Python + Pandas)  
-✅ Cleaned & merged dataset  
-✅ Power BI dashboard  
-✅ E-commerce KPIs (sales, delivery, returns, payment)  
-✅ Future: API automation for real-time refresh  
+✅ Data Cleaning (Python, Pandas)  
+✅ ETL Pipeline  
+✅ Exploratory Data Analysis  
+✅ Power BI Dashboard & Insights  
+
+---
+
+## 📂 Project Structure
 
